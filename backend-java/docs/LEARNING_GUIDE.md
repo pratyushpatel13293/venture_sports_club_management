@@ -308,9 +308,6 @@ Answer each in 2–3 sentences, pointing at the file that proves it:
 
 ## A note on your resume and honesty
 
-This backend was generated with an AI assistant and then tested. That's acceptable to say. What isn't
-acceptable is claiming you wrote every line alone if you didn't. A safe, true framing: *"Migrated the
-backend from Node.js/MongoDB to Spring Boot, MySQL/JPA, Spring Security (JWT) and STOMP WebSockets,
-keeping the React frontend's API contract, covered by integration tests."* After you've studied each module
-above, you can defend every word of that line. Change at least one feature yourself (for example add
-league scheduling or pagination). Then there's a part you can walk through line by line because you wrote it.
+This project involved migrating the backend from Node.js/MongoDB to Java Spring Boot, MySQL/JPA, Spring Security (JWT), and STOMP WebSockets while maintaining compatibility with the existing React frontend.
+
+The implementation was tested, and the backend includes integration tests covering authentication, tournaments, live matches and real-time communication.
