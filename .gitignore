@@ -1,0 +1,20 @@
+# Exclude old Node.js backend
+/Backend/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and build
+Frontend/node_modules/
+Frontend/dist/
+
+# Java build files
+backend-java/target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.log
